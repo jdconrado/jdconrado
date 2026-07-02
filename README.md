@@ -1,8 +1,8 @@
 # 👋 Hey! Welcome...
 
 🚀 **Full Stack Engineer | Technical Leader**  
-🌐 **Barranquilla, Colombia** | 📧 **jdconradop@gmail.com** | [LinkedIn](https://www.linkedin.com/in/juan-conrado-158651200/)
-
+🌐 **Barranquilla, Colombia** | 📧 **jdconradop@gmail.com** | [LinkedIn](https://www.linkedin.com/in/juan-conrado-158651200/) |
+🔗 [Website](https://jdconradop.dev)
 ---
 
 ## About Me
@@ -19,7 +19,7 @@ I specialize in designing systems for diverse domains, improving team productivi
 - **Backend Development:** Node.js, TypeScript, Express, NestJS  
 - **Frontend Development:** Angular, TailwindCSS, Ionic  
 - **Database Management:** MongoDB, PostgreSQL, Redis  
-- **DevOps & Cloud:** Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Helm, Google Cloud  
+- **DevOps & Cloud:** Docker, CI/CD (GitHub Actions, Jenkins), Helm, Google Cloud  
 - **Message Queues & Streaming:** RabbitMQ, Google Pub/Sub  
 - **Testing & Quality Assurance:** Jest, Cypress, SonarQube  
 
@@ -44,6 +44,6 @@ I specialize in designing systems for diverse domains, improving team productivi
 
 ## 📫 Get in Touch
 
-🌟 I’m open to collaborations, open-source contributions, or tech discussions. Let’s create impactful solutions together!  
+🔗 [**Website**](https://jdconradop.dev)
 📧 **Email:** jdconradop@gmail.com  
 🌐 **LinkedIn:** [Juan David Conrado Pertuz](https://www.linkedin.com/in/juan-conrado-158651200/)
